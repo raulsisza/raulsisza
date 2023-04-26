@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Sobre mí: Mi nombre es Raúl
+### Sobre mí
 
-👩‍💻 Habilidades y tecnologías
+👩‍💻 Habilidades y tecnologías <br>
 📽 Proyetos personales
 👷‍ Experencia Laboral
 👨‍🏫 Educación

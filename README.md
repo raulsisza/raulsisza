@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 ### Sobre mí
 
-👩‍💻 Habilidades y tecnologías <br>
-📽 Proyetos personales:  <br>
-👷‍ Experencia Laboral: Formación en centros de trabajo <br>
-👨‍🏫 Educación: ESO & CFGM SMR <br>
+👩‍💻 Quién soy: Mi nombre es Raúl y vivo en Buñol.  <br>
+👷‍ Experencia Laboral: Formación en centros de trabajo. <br>
+👨‍🏫 Educación: ESO & CFGM SMR. <br>
 🧾 Datos de contacto: E-mail -> Raulsisza02@gmail.com <br>
-😃 Hobbies e intereses: Escuchar música y jugar al padel <br>
-💯 Editores de código o entornos de desarrollo que dominas: Visual Studio Code & NetBeans <br>
-🌔 Estadísticas en GitHub <br>
+😃 Hobbies e intereses: Escuchar música y jugar al padel. <br>
+💯 Editores de código o entornos de desarrollo que dominas: Visual Studio Code & NetBeans. <br>

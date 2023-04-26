@@ -27,7 +27,7 @@ Soy de Buñol, me gusta jugar al padel, escuchar música y programar. <br>
 - Herramientas y frameworks:
 
 ## GitHub Stats
-![Estadísticas de GitHub de Nombre] [https://github-readme-stats.vercel.app/api?username=raulsisza&show_icons=true&theme=dark]
+Estadísticas de Raúl [https://github-readme-stats.vercel.app/api?username=raulsisza&show_icons=true&theme=dark]
 
 ## 👨‍🏫 Educación
 - ESO & CFGM SMR.

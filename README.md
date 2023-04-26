@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Sobre mí: Mi nombre es Raúl
+
+👩‍💻 Habilidades y tecnologías
+📽 Proyetos personales
+👷‍ Experencia Laboral
+👨‍🏫 Educación
+🧾 Datos de contacto
+😃 Hobbies e intereses
+💯 Editores de código o entornos de desarrollo que dominas
+🌔 Estadísticas en GitHub

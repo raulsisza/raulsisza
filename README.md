@@ -15,11 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Sobre mí
+# Sobre mí
 
-👩‍💻 Quién soy: Mi nombre es Raúl y vivo en Buñol.  <br>
-👷‍ Experencia Laboral: Formación en centros de trabajo. <br>
-👨‍🏫 Educación: ESO & CFGM SMR. <br>
-🧾 Datos de contacto: E-mail -> Raulsisza02@gmail.com <br>
-😃 Hobbies e intereses: Escuchar música y jugar al padel. <br>
-💯 Editores de código o entornos de desarrollo que dominas: Visual Studio Code & NetBeans. <br>
+¡Hola! Soy Raúl, un estudiante de DAW probando GitHub.
+
+## 😃 Hobbies
+Soy de Buñol, me gusta jugar al padel, escuchar música y programar. <br>
+
+## 💯 Lenguajes y herramientas que manejo
+- Lenguajes de programación: Java/JavaScript, HTML & CSS.
+- Herramientas y frameworks:
+
+## GitHub Stats
+![Estadísticas de GitHub de Nombre] [https://github-readme-stats.vercel.app/api?username=raulsisza&show_icons=true&theme=dark]
+
+## 👨‍🏫 Educación
+- ESO & CFGM SMR.
+- CFGS DAW.
+- Curso especializado en Blender.
+
+## Últimos proyectos
+
+Not yet
+
+## 🧾 Contacto
+- Email: Raulsisza02@gmail.com
+
+## Elementos extra
+
+Not yet
+
+¡Gracias por visitar mi perfil de GitHub!

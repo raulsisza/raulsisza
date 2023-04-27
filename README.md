@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ¡Hola! Soy Raúl, un estudiante de DAW probando GitHub.
 
-![](https://komarev.com/ghpvc/?username=raulsisza)
+# ![](https://komarev.com/ghpvc/?username=raulsisza)
 
 ## 😃 Hobbies
 Soy de Buñol, me gusta jugar al padel, escuchar música y programar. <br>

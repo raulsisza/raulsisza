@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Soy de Buñol, me gusta jugar al padel, escuchar música y programar. <br>
 
 ## 💯 Lenguajes y herramientas que manejo
-- Lenguajes de programación: Java/JavaScript, HTML & CSS.
+- Lenguajes de programación: Java, JavaScript, HTML & CSS. <img src = https://i.pinimg.com/originals/43/ff/85/43ff85c7a6ab6b6162913ff4d2ae161c.png>
 - Herramientas y frameworks:
 
 ## GitHub Stats

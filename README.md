@@ -37,13 +37,10 @@ Estadísticas de Raúl [https://github-readme-stats.vercel.app/api?username=raul
 
 ## Últimos proyectos
 
-Not yet
+Trabajando en proyectos personales.
 
 ## 🧾 Contacto
 - Email: Raulsisza02@gmail.com
 
-## Elementos extra
-
-Not yet
 
 ¡Gracias por visitar mi perfil de GitHub!
